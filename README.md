@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm  KRISH KUSHWAHA<br>A passionate frontend and backend developer from India and also pursuing B.tech in CS with Ai & Ml<br><br>🔭 Currently working on: Practical projects like Loan Helper and AprintIT — blending finance tools and IT security solutions<br>🌱 Learning & Growing In: Data Analysis, Python Libraries (NumPy, Pandas, Matplotlib), Tableau, AI/ML Concepts<br>💼 Tech Stack:<br>‣ Languages: C++, C, Python, JavaScript<br>‣ Frontend: HTML, CSS, Bootstrap<br>‣ Tools: GitHub, Google Workspace, Gemini AI, Tableau<br>‣ Soft Skills: Teamwork | Adaptability | Communication | Time Management<br><br>🏆 Highlights:<br>‣ Participant: TCS CodeVita 2024 & Amazon ML Summer School<br>‣ Organized a Website Development Competition at SRIMT<br>‣ Certified: Google Analytics, NPTEL C Programming<br><br>📫 Reach me at: krishsingh10204@gmail.com | LinkedIn<br>💻 Check out my work: GitHub Profile<br><br>⚡ Fun Fact: I debug code better than I debug life — unless it’s MATLAB... then I might just cry a little first 😂
+Hi 👋, I'm  KRISH KUSHWAHA<br>A passionate frontend and backend developer from India and also pursuing B.tech in CS with Ai & Ml<br><br>🔭 Currently working on: Practical projects <br>🌱 Learning & Growing In: Data Analysis, Python Libraries (NumPy, Pandas, Matplotlib), Tableau, AI/ML Concepts<br>💼 Tech Stack:<br>‣ Languages: C++, C, Python, JavaScript<br>‣ Frontend: HTML, CSS, Bootstrap<br>‣ Tools: GitHub, Google Workspace, Gemini AI, Tableau<br>‣ Soft Skills: Teamwork | Adaptability | Communication | Time Management<br><br>🏆 Highlights:<br>‣ Participant: TCS CodeVita 2024 & Amazon ML Summer School<br>‣ Organized a Website Development Competition at SRIMT<br>‣ Certified: Google Analytics, NPTEL C Programming<br><br>📫 Reach me at: krishsingh10204@gmail.com | LinkedIn<br>💻 Check out my work: GitHub Profile<br><br>⚡ Fun Fact: I debug code better than I debug life — unless it’s MATLAB... then I might just cry a little first 😂
 
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -17,8 +17,6 @@ Hi 👋, I'm  KRISH KUSHWAHA<br>A passionate frontend and backend developer from
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=krishkushwaha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=krishkushwaha&limit=5&theme=dark&combine_all_yearly_contributions=true)
