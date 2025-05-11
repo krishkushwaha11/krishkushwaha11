@@ -1,5 +1,6 @@
-# 💫 About Me: <br>
-                 ## Hi 👋, I'm Ayushmaan Singh Yadav
+# 💫 About Me:
+
+  ## Hi 👋, I'm KRISH KUSHWAHA
 A passionate frontend and backend developer from India and also pursuing B.tech in CS with Ai & Ml
 Hi 👋, I'm  KRISH KUSHWAHA<br>A passionate frontend and backend developer from India and also pursuing B.tech in CS with Ai & Ml<br><br>🔭 Currently working on: Practical projects <br>🌱 Learning & Growing In: Data Analysis, Python Libraries (NumPy, Pandas, Matplotlib), Tableau, AI/ML Concepts<br>💼 Tech Stack:<br>‣ Languages: C++, C, Python, JavaScript<br>‣ Frontend: HTML, CSS, Bootstrap<br>‣ Tools: GitHub, Google Workspace, Gemini AI, Tableau<br>‣ Soft Skills: Teamwork | Adaptability | Communication | Time Management<br><br>🏆 Highlights:<br>‣ Participant: TCS CodeVita 2024 & Amazon ML Summer School<br>‣ Organized a Website Development Competition at SRIMT<br>‣ Certified: Google Analytics, NPTEL C Programming<br><br>📫 Reach me at: krishsingh10204@gmail.com | LinkedIn<br>💻 Check out my work: GitHub Profile<br><br>⚡ Fun Fact: I debug code better than I debug life — unless it’s MATLAB... then I might just cry a little first 😂
 
